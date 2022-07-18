@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5Ex3.WinAnim", "Lab5Ex3.WinAnim\Lab5Ex3.WinAnim.csproj", "{1E3DA698-B1FE-4204-B3FA-6A0F80976122}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7Ex1.WinBackgroundWorker", "Lab7Ex1.WinBackgroundWorker\Lab7Ex1.WinBackgroundWorker.csproj", "{04C1212C-0AD6-41A4-8102-458F45EE35E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E3DA698-B1FE-4204-B3FA-6A0F80976122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E3DA698-B1FE-4204-B3FA-6A0F80976122}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E3DA698-B1FE-4204-B3FA-6A0F80976122}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E3DA698-B1FE-4204-B3FA-6A0F80976122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C1212C-0AD6-41A4-8102-458F45EE35E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C1212C-0AD6-41A4-8102-458F45EE35E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C1212C-0AD6-41A4-8102-458F45EE35E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C1212C-0AD6-41A4-8102-458F45EE35E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE9F28EA-00FE-4D68-87D1-AFF1123DB2B8}
+		SolutionGuid = {2584742B-0DE5-4382-8175-E184E0511439}
 	EndGlobalSection
 EndGlobal
