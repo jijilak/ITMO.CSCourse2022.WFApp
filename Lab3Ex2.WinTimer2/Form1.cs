@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab3Ex1.WinTimer1
+namespace Lab3Ex2.WinTimer2
 {
-    public partial class DLL : UserControl
+    public partial class Form1 : Form
     {
-        public DLL()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            label1.Text = DateTime.Now.ToLongTimeString();
         }
     }
 }
